@@ -1,9 +1,7 @@
 # Aref Haghgoorostami
 
-Data Analytics student at Università della Campania Luigi Vanvitelli (Caserta, Italy), working toward becoming an AI engineer.
+Data Analytics · Università della Campania "Luigi Vanvitelli" · Caserta, Italy
 
-**Currently building:** [Dispensa](https://github.com/Arefhg/dispensa-api) — a stock-management backend for small restaurants, built from the ground up to actually understand databases, APIs, auth and deployment.
+Backend development with Python, FastAPI, PostgreSQL and Docker.
 
-**Stack:** Python · FastAPI · PostgreSQL · Docker
-
-**Reach me:** aref.hg96@gmail.com
+[LinkedIn](https://www.linkedin.com/in/aref-haghgoorostami) · aref.hg96@gmail.com
